@@ -1,2 +1,2 @@
-# Repositório do Bootcamp Fullstack da Edduz
+# Repositório do Bootcamp Fullstack da Eduzz
 
