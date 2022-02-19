@@ -1,2 +1,2 @@
-# Dio-Fullstack-Bootcamp-Edduz
-Reposiório do bootcamp fullstack Edduz
+# Repositório do Bootcamp Fullstack da Edduz
+
